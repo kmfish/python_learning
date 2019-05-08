@@ -1,4 +1,2 @@
 # python_learning
-python learning code
-
-test
+udacity的python课程学习代码
